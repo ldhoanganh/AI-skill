@@ -1,0 +1,4 @@
+interface:
+  display_name: "PRD Review — Senior QE"
+  short_description: "Review PRD through QE and user lenses"
+  default_prompt: "Use $review-prd to review this PRD and produce prioritized clarification questions."

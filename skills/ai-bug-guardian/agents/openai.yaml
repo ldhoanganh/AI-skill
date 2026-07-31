@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Bug Guardian"
+  short_description: "Draft and create reviewed GE bug tickets from raw QE evidence."
+  default_prompt: "Log a GE bug from this QE message and help me create the Jira ticket."
